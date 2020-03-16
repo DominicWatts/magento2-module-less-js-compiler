@@ -18,7 +18,7 @@ use Magento\Framework\View\Asset\Source;
 use Psr\Log\LoggerInterface;
 
 /**
- * Class Processor
+ * Less Js Css preprocessor replacement class
  */
 class Processor implements ContentProcessorInterface
 {
